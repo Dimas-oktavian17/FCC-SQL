@@ -1,0 +1,45 @@
+
+--- Employee Report ---
+
+Total Employees: 28
+Average Salary: 77857.142857
+
+Employees by Department:
+6	Engineering
+6	Marketing
+6	Sales
+4	HR
+6	IT
+
+Recent Hires (Last 7 Days):
+
+
+--- Employee Report ---
+
+Total Employees: 28
+Average Salary: 77857.142857
+
+Employees by Department:
+6	Engineering
+6	Marketing
+6	Sales
+4	HR
+6	IT
+
+Recent Hires (Last 7 Days):
+
+
+--- Employee Report ---
+
+Total Employees: 28
+Average Salary: 77857.142857
+
+Employees by Department:
+6	Engineering
+6	Marketing
+6	Sales
+4	HR
+6	IT
+
+Recent Hires (Last 7 Days):
+

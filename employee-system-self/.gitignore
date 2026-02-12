@@ -1,0 +1,37 @@
+# Environment variables (contains sensitive credentials!)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.backup
+backups/*.sql
+backups/*.gz
+
+# OS files
+.DS_Store
+.env.local
+
+# Database files
+*.sql
